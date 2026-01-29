@@ -64,7 +64,10 @@ AI Tools for Programmers — Physics Wallah
 Power BI in Action — Wayspire
 
 📫 Let's Connect
+
 📧 Email: shaziaofficial.00@gmail.com
 💼 LinkedIn: linkedin.com/in/shazia-bano-896030322
+
 ⭐ How to Use
+
 This repository contains highlights of my skills, experience, and projects. Feel free to connect with me for collaborations, internships, or opportunities!
